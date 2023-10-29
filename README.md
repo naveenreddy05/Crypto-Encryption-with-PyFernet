@@ -1,5 +1,3 @@
-# Crypto Encryption with PyFernet
-
 
 # Crypto Encryption with PyFernet
 
